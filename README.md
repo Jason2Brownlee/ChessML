@@ -6,7 +6,7 @@ Archive of the **ChessML** project, circa 2010.
 
 Participation in the 2010 Kaggle chess rating competition.
 
-	This competition aims to discover whether other approaches can predict the outcome of chess games more accurately than the workhorse Elo rating system.
+> This competition aims to discover whether other approaches can predict the outcome of chess games more accurately than the workhorse Elo rating system.
 
 I believe I came 17th on the private leaderboard.
 
