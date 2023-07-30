@@ -19,7 +19,7 @@ All of the code seems to have been lost.
 
 A gist of the Glicko algorithm I wrote was captured by the internet archive here:
 
-* [The Glicko System](https://web.archive.org/web/20100822140209/https://gist.github.com/539141)
+* [src](src/)
 
 ## Sources
 
